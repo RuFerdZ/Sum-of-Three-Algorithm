@@ -1,4 +1,5 @@
 # Sum-of-Three-Algorithm
+<i>An IntelliJ project</i>
 <p>This is a Algorithm Where all combinations of 3 numbers from a list of numbers, ranging -50 to +50 (in multiples of 5), is to added together to give a sum of 0.
 The output will be the number of combinations that gave a sum of 0.</p>
 <br>
