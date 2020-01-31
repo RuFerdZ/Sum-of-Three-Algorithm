@@ -24,3 +24,6 @@ The output will be the number of combinations that gave a sum of 0.</p>
   <p>In this case the numbers are <b>hard-coded into a Array</b> at the beginning itself, and so it uses this array to Sum of Three Algorithm</p>
   </li>
 </ol>
+
+![](image/table.png)
+![](image/graph.png)
